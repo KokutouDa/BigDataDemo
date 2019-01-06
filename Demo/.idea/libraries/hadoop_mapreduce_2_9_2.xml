@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hadoop-mapreduce-2.9.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/hadoop-2.9.2/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.9.2.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop-2.9.2/share/hadoop/mapreduce/hadoop-mapreduce-client-shuffle-2.9.2.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop-2.9.2/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
