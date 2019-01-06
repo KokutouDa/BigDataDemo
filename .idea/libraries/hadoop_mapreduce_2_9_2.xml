@@ -6,6 +6,8 @@
       <root url="jar://$USER_HOME$/hadoop-2.9.2/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.9.2.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/hadoop-2.9.2/share/hadoop/mapreduce/sources/hadoop-mapreduce-examples-2.9.2-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>
